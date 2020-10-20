@@ -5,8 +5,3 @@
 - Diego Fernandes Lins
 - Gustavo Lino dos Santos
 - Juliane Galdino dos Santos
-### Objetivo
-
-### Processo de Desenvolvimento
-
-### Backlog do produto
